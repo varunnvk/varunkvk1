@@ -1,2 +1,9 @@
 # varunkvk1
-Python Project
+## Python Project
+### Employees Data
+- Situation: The company want to find and replace the missing values where employee data is missing.
+- Task: There are three different tables. Make three data frame in python and save them as three .csv files. Replace the missing values by running average
+- Action: Used Python libraries NumPy and Pandas.
+- Result: Created three different frames as .csv files, and replaced missing values.
+- Situation: The company want to find and replace the missing values where employee data is missing. - Task: There are three different tables. Make three data frame in python and save them as three .csv files. Replace the missing values by running average - Action: Used Python libraries NumPy and Pandas. - Result: Created three different frames as .csv files, and replaced missing values.
+Skills: NumPy , Panda , Jupyter Notebook
