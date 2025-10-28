@@ -17,5 +17,3 @@ Skills: NumPy , Panda , Jupyter Notebook
 - Performed aggregations and filtering to extract insights.
 
 - Demonstrated mastery of loops, conditionals, and dataframe operations.
-
-http://localhost:8888/notebooks/Employee%20Project%20Management%20And%20Performance%20Analysis%20.ipynb
